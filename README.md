@@ -1,5 +1,9 @@
 # Cognifyz-Technologies-Internship
 
+## Project Highlights
+- 🖥️ C++
+- 💻 GitHub Profile: [Link](https://github.com/Swagata-Khuntia)
+  
 ## LinkedIn
 **Connect with me on LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/swagata-khuntia-664639224/)
 
